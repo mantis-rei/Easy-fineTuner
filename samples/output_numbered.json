@@ -1,0 +1,17 @@
+[
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is Order Block Identification?\n\n### Assistant:\nTo identify an order block, look for the last opposite-colored candle before a strong impulsive move. In an uptrend, find the last red candle before price shoots up. In a downtrend, find the last green candle before price drops. The body of this candle represents your zone of interest."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is Fair Value Gap Trading?\n\n### Assistant:\nFair Value Gaps are traded by waiting for price to return to the gap zone. Mark the gap between the high of the first candle and the low of the third candle. When price retraces into this zone, look for confirmation like a rejection wick or engulfing pattern before entering."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is Liquidity Sweep Strategy?\n\n### Assistant:\nWait for price to sweep above a recent swing high (taking out buy stops), then look for a quick reversal back below. This shows institutions grabbed liquidity and are now selling. Enter short on the first bearish candle after the sweep with stops above the sweep high."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is Kill Zone Trading?\n\n### Assistant:\nThe most volatile trading periods are called kill zones. London Open (2-5 AM EST) and New York Open (7-10 AM EST) offer the best opportunities. Set up your analysis before the session, mark key levels, and wait for setups only during these high-probability windows."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is Risk Management Rules?\n\n### Assistant:\nNever risk more than 1-2% of your account per trade. Calculate position size based on your stop loss distance. If your stop is 20 pips and you're risking $100, your position should be $5 per pip. Always have a predefined risk before entering any trade."
+  }
+]

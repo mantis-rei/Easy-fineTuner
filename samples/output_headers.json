@@ -1,0 +1,17 @@
+[
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nExplain Order Blocks\n\n### Assistant:\nOrder Blocks are key institutional trading zones identified by the last opposite candle before a significant move. When banks and institutions want to buy, they first push price down to accumulate orders at better prices. The last bearish candle before the bullish reversal marks where these orders were placed. Traders use order blocks as entry zones, expecting price to return and react to these levels."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nExplain Fair Value Gaps\n\n### Assistant:\nFair Value Gaps represent imbalances in price where the market moved too quickly, leaving unfilled orders. These gaps appear when three consecutive candles create a space where wicks don't overlap. BISI (Buyside Imbalance Sellside Inefficiency) gaps form in uptrends and attract price from below. SIBI gaps form in downtrends and attract price from above."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nExplain Liquidity Concepts\n\n### Assistant:\nLiquidity is the lifeblood of Smart Money trading. Retail traders place predictable stop losses above swing highs and below swing lows. Institutions need this liquidity to fill their massive orders. A liquidity sweep or \"stop hunt\" occurs when price briefly breaks a key level to trigger stops before reversing. This creates ideal entry opportunities for informed traders."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nExplain Market Structure\n\n### Assistant:\nUnderstanding market structure is fundamental to trading. An uptrend consists of higher highs and higher lows - each peak exceeds the previous, and each pullback finds support above the prior low. A downtrend shows lower highs and lower lows. Break of Structure (BOS) confirms trend continuation, while Change of Character (CHoCH) signals potential reversal."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nExplain Supply and Demand Zones\n\n### Assistant:\nSupply zones are areas where sellers overwhelmed buyers, causing price drops. Demand zones are areas where buyers overwhelmed sellers, causing rallies. Fresh zones that haven't been retested are stronger. When price returns to these zones, watch for rejection patterns as confirmation before entering trades."
+  }
+]

@@ -1,0 +1,11 @@
+# .gitignore
+*.pyc
+__pycache__/
+venv/
+.env
+output/
+*.zip
+_temp_*.json
+
+# Keep sample outputs for testing
+!samples/output_*.json

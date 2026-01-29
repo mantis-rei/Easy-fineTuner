@@ -1,0 +1,9 @@
+Defense in depth is a cybersecurity strategy that uses multiple layers of security controls to protect systems. Instead of relying on a single firewall or antivirus, organizations deploy security measures at every level: network perimeter, internal networks, endpoints, applications, and data. If one layer fails, others continue to provide protection.
+
+SQL injection is one of the most common web application vulnerabilities. Attackers insert malicious SQL code into input fields that get processed by the database. For example, entering ' OR '1'='1 into a login form might bypass authentication. Prevention includes using parameterized queries, input validation, and least-privilege database accounts.
+
+Buffer overflow attacks exploit programs that don't properly check input size. When data exceeds the allocated buffer space, it overwrites adjacent memory. Attackers craft inputs that overwrite return addresses to execute malicious code. Modern protections include ASLR, stack canaries, and DEP/NX bits.
+
+Cross-site scripting (XSS) allows attackers to inject malicious scripts into web pages viewed by other users. Stored XSS persists on the server. Reflected XSS comes from user input in URLs. DOM-based XSS manipulates the page's JavaScript. Prevention requires output encoding, Content Security Policy, and input sanitization.
+
+Network segmentation divides a network into isolated zones based on function and sensitivity. This limits lateral movement if attackers breach one segment. Critical systems like databases should be in separate VLANs with strict access controls. Zero-trust architecture takes this further by requiring verification for every access request.

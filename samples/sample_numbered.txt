@@ -1,0 +1,14 @@
+1. Order Block Identification
+To identify an order block, look for the last opposite-colored candle before a strong impulsive move. In an uptrend, find the last red candle before price shoots up. In a downtrend, find the last green candle before price drops. The body of this candle represents your zone of interest.
+
+2. Fair Value Gap Trading
+Fair Value Gaps are traded by waiting for price to return to the gap zone. Mark the gap between the high of the first candle and the low of the third candle. When price retraces into this zone, look for confirmation like a rejection wick or engulfing pattern before entering.
+
+3. Liquidity Sweep Strategy
+Wait for price to sweep above a recent swing high (taking out buy stops), then look for a quick reversal back below. This shows institutions grabbed liquidity and are now selling. Enter short on the first bearish candle after the sweep with stops above the sweep high.
+
+4. Kill Zone Trading
+The most volatile trading periods are called kill zones. London Open (2-5 AM EST) and New York Open (7-10 AM EST) offer the best opportunities. Set up your analysis before the session, mark key levels, and wait for setups only during these high-probability windows.
+
+5. Risk Management Rules
+Never risk more than 1-2% of your account per trade. Calculate position size based on your stop loss distance. If your stop is 20 pips and you're risking $100, your position should be $5 per pip. Always have a predefined risk before entering any trade.

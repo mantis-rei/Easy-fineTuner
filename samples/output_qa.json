@@ -1,0 +1,17 @@
+[
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is an Order Block in ICT trading?\n\n### Assistant:\nAn Order Block is the last opposite candle before a significant price move. It represents where institutional traders placed their orders. A bullish order block is the last bearish candle before a strong upward move, while a bearish order block is the last bullish candle before a downward move."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nHow do I identify a Fair Value Gap?\n\n### Assistant:\nA Fair Value Gap (FVG) occurs when there's a gap between three candles where the wicks don't overlap. Look for the high of candle 1 being lower than the low of candle 3 (bullish FVG) or the low of candle 1 being higher than the high of candle 3 (bearish FVG). Price often returns to fill these gaps."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is liquidity in Smart Money Concepts?\n\n### Assistant:\nLiquidity refers to clusters of stop losses placed by retail traders. Buy-side liquidity (BSL) sits above swing highs where sellers have stops. Sell-side liquidity (SSL) sits below swing lows where buyers have stops. Institutional traders target these areas to fill their large orders."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nHow do I use the First Candle Rule?\n\n### Assistant:\nThe First Candle Rule uses the first candle of a trading session as a reference. Mark its high and low. If price breaks above the high and holds, look for longs. If price breaks below the low and holds, look for shorts. Wait for a retest of the broken level for confirmation."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is market structure in trading?\n\n### Assistant:\nMarket structure refers to the pattern of higher highs and higher lows (uptrend) or lower highs and lower lows (downtrend). A Break of Structure (BOS) confirms trend continuation. A Change of Character (CHoCH) signals a potential trend reversal when the pattern breaks."
+  }
+]

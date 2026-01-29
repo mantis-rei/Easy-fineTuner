@@ -1,0 +1,50 @@
+[
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nExplain Order Blocks\n\n### Assistant:\nOrder Blocks are key institutional trading zones identified by the last opposite candle before a significant move. When banks and institutions want to buy, they first push price down to accumulate orders at better prices. The last bearish candle before the bullish reversal marks where these orders were placed. Traders use order blocks as entry zones, expecting price to return and react to these levels."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nExplain Fair Value Gaps\n\n### Assistant:\nFair Value Gaps represent imbalances in price where the market moved too quickly, leaving unfilled orders. These gaps appear when three consecutive candles create a space where wicks don't overlap. BISI (Buyside Imbalance Sellside Inefficiency) gaps form in uptrends and attract price from below. SIBI gaps form in downtrends and attract price from above."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nExplain Liquidity Concepts\n\n### Assistant:\nLiquidity is the lifeblood of Smart Money trading. Retail traders place predictable stop losses above swing highs and below swing lows. Institutions need this liquidity to fill their massive orders. A liquidity sweep or \"stop hunt\" occurs when price briefly breaks a key level to trigger stops before reversing. This creates ideal entry opportunities for informed traders."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nExplain Market Structure\n\n### Assistant:\nUnderstanding market structure is fundamental to trading. An uptrend consists of higher highs and higher lows - each peak exceeds the previous, and each pullback finds support above the prior low. A downtrend shows lower highs and lower lows. Break of Structure (BOS) confirms trend continuation, while Change of Character (CHoCH) signals potential reversal."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nExplain Supply and Demand Zones\n\n### Assistant:\nSupply zones are areas where sellers overwhelmed buyers, causing price drops. Demand zones are areas where buyers overwhelmed sellers, causing rallies. Fresh zones that haven't been retested are stronger. When price returns to these zones, watch for rejection patterns as confirmation before entering trades."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is Order Block Identification?\n\n### Assistant:\nTo identify an order block, look for the last opposite-colored candle before a strong impulsive move. In an uptrend, find the last red candle before price shoots up. In a downtrend, find the last green candle before price drops. The body of this candle represents your zone of interest."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is Fair Value Gap Trading?\n\n### Assistant:\nFair Value Gaps are traded by waiting for price to return to the gap zone. Mark the gap between the high of the first candle and the low of the third candle. When price retraces into this zone, look for confirmation like a rejection wick or engulfing pattern before entering."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is Liquidity Sweep Strategy?\n\n### Assistant:\nWait for price to sweep above a recent swing high (taking out buy stops), then look for a quick reversal back below. This shows institutions grabbed liquidity and are now selling. Enter short on the first bearish candle after the sweep with stops above the sweep high."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is Kill Zone Trading?\n\n### Assistant:\nThe most volatile trading periods are called kill zones. London Open (2-5 AM EST) and New York Open (7-10 AM EST) offer the best opportunities. Set up your analysis before the session, mark key levels, and wait for setups only during these high-probability windows."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is Risk Management Rules?\n\n### Assistant:\nNever risk more than 1-2% of your account per trade. Calculate position size based on your stop loss distance. If your stop is 20 pips and you're risking $100, your position should be $5 per pip. Always have a predefined risk before entering any trade."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nContinue or explain:\n\n### Assistant:\nDefense in depth is a cybersecurity strategy that uses multiple layers of security controls to protect systems. Instead of relying on a single firewall or antivirus, organizations deploy security measures at every level: network perimeter, internal networks, endpoints, applications, and data. If one layer fails, others continue to provide protection. SQL injection is one of the most common web application vulnerabilities. Attackers insert malicious SQL code into input fields that get processed by the database. For example, entering ' OR '1'='1 into a login form might bypass authentication. Prevention includes using parameterized queries, input validation, and least-privilege database accounts. Buffer overflow attacks exploit programs that don't properly check input size. When data exceeds the allocated buffer space, it overwrites adjacent memory. Attackers craft inputs that overwrite return addresses to execute malicious code. Modern protections include ASLR, stack canaries, and DEP/NX bits. Cross-site scripting (XSS) allows attackers to inject malicious scripts into web pages viewed by other users. Stored XSS persists on the server. Reflected XSS comes from user input in URLs. DOM-based XSS manipulates the page's JavaScript. Prevention requires output encoding, Content Security Policy, and input sanitization. Network segmentation divides a network into isolated zones based on function and sensitivity. This limits lateral movement if attackers breach one segment. Critical systems like databases should be in separate VLANs with strict access controls. Zero-trust architecture takes this further by requiring verification for every access request."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is an Order Block in ICT trading?\n\n### Assistant:\nAn Order Block is the last opposite candle before a significant price move. It represents where institutional traders placed their orders. A bullish order block is the last bearish candle before a strong upward move, while a bearish order block is the last bullish candle before a downward move."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nHow do I identify a Fair Value Gap?\n\n### Assistant:\nA Fair Value Gap (FVG) occurs when there's a gap between three candles where the wicks don't overlap. Look for the high of candle 1 being lower than the low of candle 3 (bullish FVG) or the low of candle 1 being higher than the high of candle 3 (bearish FVG). Price often returns to fill these gaps."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is liquidity in Smart Money Concepts?\n\n### Assistant:\nLiquidity refers to clusters of stop losses placed by retail traders. Buy-side liquidity (BSL) sits above swing highs where sellers have stops. Sell-side liquidity (SSL) sits below swing lows where buyers have stops. Institutional traders target these areas to fill their large orders."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nHow do I use the First Candle Rule?\n\n### Assistant:\nThe First Candle Rule uses the first candle of a trading session as a reference. Mark its high and low. If price breaks above the high and holds, look for longs. If price breaks below the low and holds, look for shorts. Wait for a retest of the broken level for confirmation."
+  },
+  {
+    "text": "### System:\nYou are a helpful assistant.\n\n### User:\nWhat is market structure in trading?\n\n### Assistant:\nMarket structure refers to the pattern of higher highs and higher lows (uptrend) or lower highs and lower lows (downtrend). A Break of Structure (BOS) confirms trend continuation. A Change of Character (CHoCH) signals a potential trend reversal when the pattern breaks."
+  }
+]
